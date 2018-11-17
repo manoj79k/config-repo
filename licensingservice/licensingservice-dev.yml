@@ -4,3 +4,4 @@ spring.datasource.url= jdbc:oracle:thin:@//localhost:1521/pretups
 spring.datasource.username=aims
 spring.datasource.password=aims123
 spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
+spring.jpa.database-platform=org.hibernate.dialect.Oracle10gDialect
