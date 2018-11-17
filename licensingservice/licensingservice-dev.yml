@@ -5,4 +5,4 @@ spring.datasource.username=aims
 spring.datasource.password=aims123
 spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
 spring.jpa.database-platform=org.hibernate.dialect.Oracle10gDialect
-example.property=jay ho
+example.property=jay
